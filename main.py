@@ -3,7 +3,7 @@ import praw
 import requests
 from praw.models import InlineGif, InlineImage, InlineVideo
 # subr = 'lostest'
-credentials = 'secrets.json'
+credentials = 'client_secrets.json'
 
 
 with open(credentials) as f:
