@@ -16,10 +16,11 @@
  #### We will be following this `https://www.jcchouinard.com/get-reddit-api-credentials-with-praw/` instruction, You can start with point 2 and skipp the first part of point 3 (the code is already posted in this script)
  
   1. Enter `secrets.json` and fill the empty fields to get ***client_id*** and ***client_secret*** follow point 2 of this instruction: 
-  2. While in the folder with application, enter command `python refreshtoken.py`
-  3. When prompted paste your ***client_id*** and ***client_secret***, and ***all*** when asked for the list of scopes
-  4. Go to `http://localhost:8080` url in your browser and loggin
-  5. Copy refresh token and post it in correct field
+  `https://www.jcchouinard.com/get-reddit-api-credentials-with-praw/`
+  3. While in the folder with application, enter command `python refreshtoken.py`
+  4. When prompted paste your ***client_id*** and ***client_secret***, and ***all*** when asked for the list of scopes
+  5. Go to `http://localhost:8080` url in your browser and loggin
+  6. Copy refresh token and post it in correct field
 
 ## Using the script
 
