@@ -7,9 +7,10 @@
 
 ## Script setup:
 
-  1. Clone this repository ( push the green ***Code*** button, and select ***Download ZIP*** ) 
-  2. Open folder with script files in comand prompt (cmd) (https://www.wikihow.com/Open-a-Folder-in-Cmd)
-  3. Type `pip install praw` and pres enter
+  1. Clone this repository ( push the green ***Code*** button, and select ***Download ZIP*** )
+  2. Unzip the files in folder of your chooseing  
+  3. Open folder with script files in comand prompt (cmd) (https://www.wikihow.com/Open-a-Folder-in-Cmd)
+  4. Type `pip install praw` and pres enter
 
 ## Secrets setup:
  #### We will be following this `https://www.jcchouinard.com/get-reddit-api-credentials-with-praw/` instruction, You can start with point 2 and skipp the first part of point 3 (the code is already posted in this script)
