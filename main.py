@@ -44,3 +44,5 @@ for subr in sub_list:
 with open("leftovers.txt","w") as file:
     for i in leftovers:
         file.write(f'{i["sub"]} - {i["error"]}\n')
+
+print('FINISHED')
